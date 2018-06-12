@@ -1,0 +1,13 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/
+MapReduceDesignPatterns.iml
+
+.DS_Store
+src/.DS_Store
+src/main/.DS_Store
+src/main/java/.DS_Store
+src/main/java/com/.DS_Store
+src/main/java/com/mapreduce/.DS_Store
+src/main/java/com/mapreduce/ch1/.DS_Store
+src/main/java/com/mapreduce/ch2/.DS_Store
+src/main/java/com/mapreduce/ch2/simple/.DS_Store
